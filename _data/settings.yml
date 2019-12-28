@@ -1,12 +1,12 @@
 basic_settings:
-  site_title: Simples
-  site_tagline: A super simple blogging theme for Jekyll.
+  site_title: Lex
+  site_tagline: A blog about data, sports and finance stuff.
   favicon_image: /images/favicon.png
 
 header_settings:
   avatar_image: /images/avatar.jpg
   logo_image: 
-  logo_width: 200
+  logo_width: 100
 
 menu_settings:
   menu_items:
