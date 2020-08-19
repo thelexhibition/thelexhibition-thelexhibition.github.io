@@ -41,8 +41,17 @@ Web: Django
 
 Other: Symphony
 
+## Models & Application
 
-Feel free to get in touch for feedback, to collaborate or share project ideas on the contact page.
+Ensemble trees for multi-factor analysis and trade selection.
+
+Portfolio Optimisation (clustering, deep correlation analysis, optimisation)
+
+Multinomial probit models and bayesian techniques for racing and sports modelling.
+
+Financial markets reccomender systems.
+
+Feel free to get in touch for feedback, to collaborate or share project ideas !
 
 
 <a href="https://thelexhibition.github.io/thelexhibition-thelexhibition.github.io/contact" class="button button--large">Send me a message</a>

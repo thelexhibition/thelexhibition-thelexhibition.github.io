@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Lex
-  site_tagline: A blog about data, sports and finance stuff.
+  site_tagline: Predicting things.
   favicon_image: /images/favicon.png
 
 header_settings:
