@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Projects'
       url: '/projects/'
     - title: 'Strategies'
-      url: '/strategies/'
+      url: '/strategies'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
