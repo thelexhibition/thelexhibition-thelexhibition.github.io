@@ -5,8 +5,6 @@ subtitle: I believe we are going through a fast-paced era of datafication which 
 featured_image: /images/social.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
 ## Strategies
 
 ### Asset Allocation
@@ -14,3 +12,6 @@ featured_image: /images/social.jpg
 ### Robo-advisor
 
 ### Hedge Fund Strategies
+
+
+This is an example page !
