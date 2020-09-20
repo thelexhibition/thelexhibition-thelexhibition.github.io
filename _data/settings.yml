@@ -14,6 +14,8 @@ menu_settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
+    - title: 'Strategies'
+      url: '/strategies/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -75,9 +77,9 @@ font_settings:
   regular_weight: 400
   bold_weight: 600
   site_title:
-    small_size: 27
-    medium_size: 32
-    large_size: 40
+    small_size: 17
+    medium_size: 22
+    large_size: 30
     weight: 600
     letter_spacing: 0
   site_tagline:
